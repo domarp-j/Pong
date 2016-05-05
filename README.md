@@ -1,5 +1,5 @@
 # Pong
-Good ol' computer paddles, remade with Python &amp; Pygame.
+Good ol' computer paddles, remade with Python &amp; Pygame.<br>
 <a href="https://www.youtube.com/watch?v=fEjKBY2rY3g&feature=youtu.be">Click here</a> for a video demonstration. 
 
 Running this program requires Pygame. Download it <a href="https://bitbucket.org/pygame/pygame/downloads" target="a_blank"> here! </a> <br>
